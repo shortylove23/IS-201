@@ -1,0 +1,30 @@
+ body{
+    background-color: lightpink;
+ }
+
+ h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+ }
+
+ h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red
+ }
+
+ .lists{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    text-align: left;
+    font-size: larger;
+    
+
+ }
+
+ .whole {
+    text-align: left;
+ }
+
+ .little {
+    font-style: italic;
+ }
